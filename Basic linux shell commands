@@ -1,0 +1,11 @@
+mkdir :> used to create a folder or directory, stands for make directory.
+ls :> It list files. ls- a list all the files including hidden ones
+cd :> It is used to chanfe directory or goto a particular directory
+touch :> Used to create file
+echo :> To print a string on the screen
+cat :> To view the content of a file
+mv :> It can be used to rename a file or move a file from one location to other
+cp :>  It copies a file from one file location to another. It retains the original file and create a copy in different directory.
+banner :> Used to print the ASCII command character string large lettter to standard output
+wc : stand for word count. Used to find out number of lines bytes and character count
+grep :> Print lines that matches pattern.
